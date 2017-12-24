@@ -1,3 +1,7 @@
+SYCOIN is a cryptocurrency Forked from Bitcoin by Steven Sitt.
+Below is the original unedited Bitcoin  Readme.md file.
+
+
 Bitcoin Core integration/staging tree
 =====================================
 
